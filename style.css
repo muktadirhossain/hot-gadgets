@@ -1,0 +1,46 @@
+/* body{
+    background-color: rgb(243, 234, 220);
+} */
+*{
+    box-sizing: border-box;
+}
+.logo{
+    height: 5rem;
+}
+.banner{
+    background: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: bottom left;
+    padding-bottom: 100px;
+}
+.carousel-title{
+    font-weight: bold;
+    font-size: 45px;
+    padding-bottom: 1rem;
+}
+.buy-now-btn{
+    margin-top: 1rem;
+}
+.card-img{
+    width: 300px;
+}
+
+.see-all{
+    color: #FFC91C;
+    font-size: 1.5rem;
+    line-height: 2.3;
+}
+.underline{
+    background-image: linear-gradient(to right, #ffcd1a,#FFA133);
+    width: 140px;
+    height: 7px;
+    margin: auto;
+    border-radius: 50px;
+}
+
+footer p{
+    background-color: darkgray;
+    margin-bottom: 0;
+    
+}
