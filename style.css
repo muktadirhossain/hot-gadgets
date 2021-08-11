@@ -1,6 +1,9 @@
-/* body{
-    background-color: rgb(243, 234, 220);
-} */
+.navbar-toggler{
+    z-index: 9999;
+}
+.index{
+    z-index: 9999;
+}
 *{
     box-sizing: border-box;
   
@@ -41,8 +44,8 @@
 }
 .cat-img{
     width: 250px;
-    height: auto;
-
+    height: 200px;
+    margin: auto;
 }
 
 footer p{
